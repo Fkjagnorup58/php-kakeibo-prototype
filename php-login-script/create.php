@@ -51,6 +51,7 @@ if(isset($_POST["create"]))
   <title>How to create PHP Login Script using Cookies</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
  </head>
  <body>
@@ -89,9 +90,6 @@ if(isset($_POST["create"]))
     </div>
    </div>
    <br />
-   <p>Admin email - john_smith@gmail.com</p>
-   <p>Admin Password - password</p>
-   <p>All user password is 'password'</p>
   </div>
  </body>
 </html>
