@@ -48,7 +48,7 @@ if(isset($_POST["create"]))
 <!DOCTYPE html>
 <html>
  <head>
-  <title>How to create PHP Login Script using Cookies</title>
+  <title>家計簿アプリ</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -67,7 +67,7 @@ if(isset($_POST["create"]))
             </li>
           </ul>
     </div>
-   <h2 align="center">How to create PHP Login Script using Cookies</h2>
+   <h2 align="center">家計簿アプリ</h2>
    <br />
    <div class="panel panel-default">
 

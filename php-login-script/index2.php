@@ -10,7 +10,7 @@ if(!isset($_COOKIE["type"]))
 <!DOCTYPE html>
 <html>
  <head>
-  <title>How to create PHP Login Script using Cookies</title>
+  <title>家計簿アプリ</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
@@ -19,7 +19,7 @@ if(!isset($_COOKIE["type"]))
  <body>
   <br />
   <div class="container">
-   <h2 align="center">How to create PHP Login Script using Cookies</h2>
+   <h2 align="center">家計簿アプリ</h2>
    <br />
    <div align="right">
     <a href="logout.php">ログアウト</a>

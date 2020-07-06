@@ -67,7 +67,7 @@ $records = $stmt->fetchAll();
                 <th scope="col" class="col-3">項目</th>
                 <th scope="col" class="col-2">収入</th>
                 <th scope="col" class="col-2">支出</th>
-                <th scope="col" class="col-3">操作</th>
+                <th scope="col" class="col-3">ボタン</th>
               </tr>
             </thead>
 
